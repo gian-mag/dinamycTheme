@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+/* Light Theme */
+.light-theme {
+  --primary-color: #007bff;
+  --secondary-color: #6c757d;
+  --background-color: #f8f9fa;
+  --text-color: #212529;
+  --padding: 0.5em .7em;
+}
+
+/* Dark Theme */
+.dark-theme {
+  --primary-color: #ff6b6b;
+  --secondary-color: #00adb5;
+  --background-color: #121212;
+  --text-color: #eeeeee;
+  --padding: 1.5em 1.7em;
+}
